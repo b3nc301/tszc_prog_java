@@ -1,0 +1,2 @@
+Egy;Ketto;
+Harom;Negy;
